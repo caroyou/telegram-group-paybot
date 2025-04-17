@@ -29,9 +29,9 @@ A Telegram bot system for managing paid group access automatically.
 
 你可以联系我获取部署帮助或购买使用：
 
-- Telegram 机器人试用地址：[https://t.me/your_bot](https://t.me/fufeiruqun_bot)
-- Telegram 联系我：[https://t.me/your_username](https://t.me/carojl)
-- 或加入频道获取最新信息：[https://t.me/your_channel](https://t.me/carotk)
+- Telegram 机器人试用地址：[https://t.me/fufeiruqun_bot](https://t.me/fufeiruqun_bot)
+- Telegram 联系我：[https://t.me/carojl](https://t.me/carojl)
+- 或加入频道获取最新信息：[https://t.me/carotk](https://t.me/carotk)
 
 ---
 
