@@ -16,7 +16,7 @@ A Telegram bot system for managing paid group access automatically.
 
 ## 📸 截图预览
 
-（可以插入你自己的截图）
+
 ![image](https://github.com/user-attachments/assets/ac3d1efc-12fd-41c1-b99a-5149e7d8dd8a)
 ![image](https://github.com/user-attachments/assets/47c3ba53-eea2-48ec-9b95-4d2b4716973e)
 ![image](https://github.com/user-attachments/assets/2de0ce8a-ce37-4bd1-910c-759ef8ddc27c)
