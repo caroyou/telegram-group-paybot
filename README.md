@@ -9,6 +9,7 @@ A Telegram bot system for managing paid group access automatically.
 - ✅ 支持多群管理，自动拉群、自动踢人
 - ✅ 支持会员时长设置，自动到期处理
 - ✅ 支持后台手动审核、白名单管理
+- ✅ 支持邀请返利
 
 适合用于**社群变现**、**付费资源群**、**VIP会员服务**等场景。
 
@@ -20,6 +21,7 @@ A Telegram bot system for managing paid group access automatically.
 ![image](https://github.com/user-attachments/assets/ac3d1efc-12fd-41c1-b99a-5149e7d8dd8a)
 ![image](https://github.com/user-attachments/assets/47c3ba53-eea2-48ec-9b95-4d2b4716973e)
 ![image](https://github.com/user-attachments/assets/2de0ce8a-ce37-4bd1-910c-759ef8ddc27c)
+![image](https://github.com/user-attachments/assets/8092894f-fae8-448b-bc42-a056181734cb)
 
 ---
 
